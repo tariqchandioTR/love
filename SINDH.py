@@ -1,4 +1,4 @@
-# love@@ -11,0 +1,394 @@
+# love@@ -0,0 +1,394 @@
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -40,7 +40,7 @@ def jalan(z):
 logo = """
    Tariq Chandio
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   THE ANONYMOUS tariqchandio TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers
