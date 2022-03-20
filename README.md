@@ -19,3 +19,7 @@ ls
 cd love
 
 python2 SINDH.py 
+
+user name TARIQ
+
+pass 03458893258
